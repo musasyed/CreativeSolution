@@ -1,0 +1,193 @@
+.navbar{
+background-color:#DAA520 !important;
+}
+.nav-link{
+
+color: white !important;
+
+}
+.fa-phone-square,.fa-search{
+
+font-size: 25px !important;
+}
+
+h5{
+
+
+color:black ;
+font-size: 50px;
+
+}
+.advertisingagency{
+
+    margin-top: 10px;
+    color:#DAA520;
+font-weight: bold;
+text-align: center;
+
+}
+.image2{
+
+    height:50px ;
+}
+.video{
+  justify-content: center;
+    margin-top: 5px;
+    border: #DAA520 !important;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+background-image: url(cover2.jpg);
+}
+.maincard{
+    margin-top: auto;
+
+   
+   
+    
+}
+.card{
+    justify-content: center !important;
+    background-image: url(cover2.jpg);
+  background-repeat: round;
+}
+.card-title,.card-text,h3{
+    text-align: center;
+    font-weight: bold;
+    color: #DAA520;
+}
+.card-img-top{
+    height: 300px;
+    width: 300px;
+
+    align-items: center;
+   
+
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .fa-print,.fa-paint-brush,.fa-phone{
+
+    font-size: 50px !important;
+color: #DAA520 !important;
+  }
+  .card1,.card2,.card3{
+      display: flex;
+      width: 500px;
+  height: 200px;
+  background-color: white;
+  box-shadow: 2px 4px 5px grey;
+  justify-content: center;
+  align-items: center;
+  
+
+
+    }
+  .nextcard{
+      margin-top: 30px;
+      display: flex;
+      flex-direction: row;
+      justify-content: space-around;
+      flex-wrap: wrap;
+  }
+  .footer{
+      margin-top: 10px;
+      background-color:#DAA520;
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+  }
+  .list{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+ color: white;
+ flex-direction: row;
+ text-decoration: none;
+  }
+  .copyright{
+      text-align: end;
+      justify-content: right;
+  }
+  .fa-facebook-square,.fa-instagram,.fa-twitter-square{
+      color: blue;
+      text-align: center;
+    font-size: 25px !important;
+    justify-content: center;
+  }
+  .copyright{
+     color: #DAA520;
+  }
+  .contact{
+      color: #DAA520;
+      justify-content: center;
+      margin-top: 10px;
+    
+      text-align: center;
+      padding-left: 10px;
+
+      
+  }
+  .fa-address-book,.fa-phone,.fa-envelope{
+
+    font-size: 30px !important;
+color: #DAA520 !important;
+align-items: center;
+text-align: center;
+  }
+  .top{
+      text-align: center;
+      color: #DAA520;
+      font-weight: bold;
+      background-color: black;
+      color: white;
+      margin-top: 20px;
+      size: 50px;
+  }
+  .header {
+    color: #DAA520;
+    font-size: 27px;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.bigicon {
+    font-size: 35px;
+    color: #DAA520;
+}
+.form{
+    background-color: lightgray;
+    margin-top: 10px;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+.section
+{
+  background-color: wheat;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    
+}
+.sec{
+    color: red;
+}
+a:hover{
+background-color: lightgray;
+
+}
+.design{
+    display: flex;
+    flex-direction: column;
+}
+.design{
+    width: 200px;
+    height: 200px;
+}

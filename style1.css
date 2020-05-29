@@ -1,0 +1,29 @@
+.card{
+    width: 250px !important;
+    height: 250px !important;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.Designing,.printing{
+    margin-top: 50px;
+}
+.card-text,.card-title{
+    font-weight: bold;
+    color: #DAA520;
+}
+h1{
+    color:white ;
+    background-color: black;
+    text-align: center;
+    size: 50px;
+}
+.digital{
+    justify-content: center;
+}
+.row{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    display: flex;
+}
